@@ -1,0 +1,3 @@
+variable "ghapat" {
+  type = string
+}
